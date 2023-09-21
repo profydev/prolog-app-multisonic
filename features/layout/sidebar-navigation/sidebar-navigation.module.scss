@@ -139,3 +139,9 @@
     display: flex;
   }
 }
+
+.rotateCollapseMenuItem {
+  transform: rotate(180deg);
+
+  // rotate: 180deg;
+}
